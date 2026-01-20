@@ -1,2 +1,2 @@
-# 3D_CNN_Activity_Recognition
+# 3d-cnn-activity-recognition
 Implementation of 3D CNN to skeletal dat for human activity recognition
